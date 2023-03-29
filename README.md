@@ -29,3 +29,16 @@ This text is *italics* and this text is both ***bold and italics***.
 ### Links
 
 Here is link to 
+
+### Images
+
+![]
+
+### Code
+
+Use the '<html>' tag to start an HTML document.
+  
+  '''Javascript
+  console.log ("Hello World");
+  document.write("<h1>Hello World</h1>");
+  '''
