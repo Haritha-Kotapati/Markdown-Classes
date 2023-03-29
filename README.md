@@ -36,9 +36,9 @@ Here is link to
 
 ### Code
 
-Use the '<html>' tag to start an HTML document.
+Use the `<html>` tag to start an HTML document.
   
-  '''Javascript
+  ```Javascript
   console.log ("Hello World");
   document.write("<h1>Hello World</h1>");
-  '''
+  ```
