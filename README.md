@@ -32,7 +32,7 @@ Here is link to
 
 ### Images
 
-![]
+![This is an image](https://unsplash.com/photos/PTGQb_WPxNc)
 
 ### Code
 
