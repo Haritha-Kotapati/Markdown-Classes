@@ -3,4 +3,4 @@
 This is a paragraph.
 
 This is another paragraph.
-This text is not anew paragraph.\
+This text is not anew paragraph.
